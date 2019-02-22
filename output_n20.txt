@@ -1,0 +1,31 @@
+n:1	 count: 2
+n:2	 count: 2
+n:3	 count: 4
+n:4	 count: 4
+n:5	 count: 8
+n:6	 count: 8
+n:7	 count: 16
+n:8	 count: 16
+n:9	 count: 32
+n:10	 count: 32
+n:11	 count: 64
+n:12	 count: 64
+n:13	 count: 128
+n:14	 count: 128
+n:15	 count: 256
+n:16	 count: 256
+n:17	 count: 512
+n:18	 count: 512
+n:19	 count: 1024
+n:20	 count: 1024
+n:21	 count: 2048
+n:22	 count: 2048
+n:23	 count: 4096
+n:24	 count: 4096
+
+real	49m25.983s
+user	49m14.041s
+sys	0m4.636s
+
+.
+.
