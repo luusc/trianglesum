@@ -28,7 +28,7 @@ def makeOutput(l):
 
 #n=int(sys.argv[0])
 
-J=24
+J=12 #24
 for n in range(J+1)[1:]:
     count=0
     for k in range(2**n):
@@ -43,7 +43,7 @@ for n in range(J+1)[1:]:
         if (nyListe == outputListe):
 #            print("n: " + str(n)+ "\t" + "k: " + str(k) +"\t" + str(outputListe))
             count += 1
-    print "n:" + str(n) + "\t " + "count: " + str(count)
+    print ("n:" + str(n) + "\t " + "count: " + str(count))
 
 
 
